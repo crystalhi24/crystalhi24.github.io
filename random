@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Random</title>
+</head>
+<body>
+  <Header>
+    <h1>
+      randomness
+      <img src="https://ktwop.com/2020/11/02/random-is-indistinguishable-from-divine/" alt="Device not working colors- random"/>
+    </h1>
+  <nav>
+    <ol>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Random Stuff</a></li>
+      <li><a href="#">Frustration from Randomness</a></li>
+      <li><a href="#">Link that will Send You to Random Site</a></li>
+    </ol>
+  </nav>
+  </Header>
+<main>
+  <article>
+  <h2>About Me</h2>
+  <p>
+    Everything about me -the one who made this site you so unfortunately stumbled upon- is random. The randomness of my feelings when I wake up -from grouchy to excited-, the randomness of stuff life throws at me, the randomness of times I laugh. The times I wake up? Random. The times I get a new project as a homework? Random. So when I learned about HTML, I decided to make a website about totally random stuff. Thanks for reading this whole chunk of nothing! At least it's better than "lorem ipsum".
+  </p>
+  <img src="https://www.yellowtrace.com.au/pixel-people-incredible-images-formed-by-thousands-of-humans/" alt="Random picture made by 1,000 people! Isn't that cool?"
+  </article>
+</main>
+<footer>
+  <p>
+    This website is just a tryout. Feel free to close the tab.
+  </p>
+</footer>
