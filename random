@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
+  <link rel="stylerandom.css" href="stylerandom.css" type="text/css">
   <title>Random</title>
 </head>
 <body>
