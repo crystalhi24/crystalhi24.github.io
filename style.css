@@ -1,0 +1,47 @@
+.h{
+    color:blueviolet;
+    font-size: 40px;
+    font-family: "Courier New";
+    text-align: center
+}
+nav ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+}
+
+nav li {
+  text-align: center;
+  flex: 1;
+  font-size: 35px;
+  font-family:'Courier New', Courier, monospace;
+}
+p1 {color:midnightblue;
+    font-size: 18px;
+    font-family: "sans-serif";
+
+}
+.heads{
+    color:black;
+    font-size: 30px;
+    font-family: "Arial";
+}
+.descp{
+    color:midnightblue;
+    font-size: 18px;
+    font-family: "sans-serif";
+}
+body {
+    background-color: aquamarine;
+}
+.am {
+    border: 2px solid cadetblue;
+}
+footer {
+    background-color: aqua;
+    bottom: 0;
+    position: fixed; 
+    right: 0;
+    margin: 10px;
+}
