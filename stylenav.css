@@ -12,17 +12,33 @@ nav li {
   font-family:'Courier New', Courier, monospace;
 }
 body {
-    background-color: aqua;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(164, 242, 216);
+    font-family:'Times New Roman', Times, serif;
 }
 title {
     font-size: 40px;
     text-align: center;
 }
-h1 {
+.h1 {
     font-size: 35px;
 }
-p1 {
-    font-size: 30px;
-    background-color:aquamarine
+.p1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+.image {
+    height: 530px;
+    width: 510px;
+}
+.list {
+    font-size: 24px;
+}
+.special {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+    color:blue;
+}
+article {
+    font-size: 20px;
 }
