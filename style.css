@@ -17,7 +17,8 @@ nav li {
   font-size: 35px;
   font-family:'Courier New', Courier, monospace;
 }
-p1 {color:midnightblue;
+p1 {
+    color:midnightblue;
     font-size: 18px;
     font-family: "sans-serif";
 
